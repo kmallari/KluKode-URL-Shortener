@@ -16,8 +16,6 @@ L
 src/server/db.ts,7/a/7af89e7a3037796e469e8301b97510ea9e80df0e
 ;
 src/env.mjs,9/9/993b765572fa1803e98ff6a941196bbcdacf9926
-<
-.env.example,d/4/d4dae00d11854b35292c2b8a30515a9a0aa2d871
 D
 prisma/schema.prisma,1/8/187e4a6f168cf143dde68ce28a29ae08ce9b9578
 D
